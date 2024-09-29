@@ -28,34 +28,7 @@ Welcome to the **Investment Toolkit** – an all-in-one financial calculator des
 
 1. **Download the `.exe` file** from the [Releases](#) section or from [Google Drive link](#).
 2. Run the file, and the app will launch automatically—no installation needed!
-   
-   _Note: Make sure to have Python installed on your machine if you're running the source code version._
-
-### For Developers:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/investment-toolkit.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd investment-toolkit
-```
-
-3. Install the necessary Python dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the application:
-
-```bash
-python Investment_Toolkit.py
-```
+ 
 
 ## How to Use 🛠
 
@@ -68,12 +41,8 @@ python Investment_Toolkit.py
 
 If you have any questions, issues, or suggestions, feel free to open an [issue](https://github.com/yourusername/investment-toolkit/issues) or reach out to me via social media:  
 - **Twitter**: [@Arslanr369](https://twitter.com/Arslanr369)
-- **Facebook**: [AamdaniPro](https://facebook.com/aamdanipro)
+- **Facebook**: [Arslanr369](https://facebook.com/Arslanr369)
 
 ## License 📜
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to edit or add any information as needed, especially in the **Installation** and **Screenshots** sections. Let me know if you'd like to customize it further!
