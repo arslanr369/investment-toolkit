@@ -20,9 +20,6 @@ Welcome to the **Investment Toolkit** – an all-in-one financial calculator des
 - **Easy to Use**: User-friendly interface built using Tkinter for fast and intuitive navigation.
 - **Free to Download**: This app is completely free and built to support investors in making informed financial decisions.
 
-## Screenshots 📸
-
-[Insert screenshots of your app's interface here, showcasing the Profit/Loss, Commission, Dividend + Bonus, and CGT calculators]
 
 ## Installation 💻
 
